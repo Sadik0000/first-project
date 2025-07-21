@@ -1,6 +1,6 @@
 print("Hello world!")
 
-print("Python – Versatile and beginner-friendly, widely used in AI, data science, and web development.
+print("""Python – Versatile and beginner-friendly, widely used in AI, data science, and web development.
 
 Java – A staple in enterprise applications and Android development.
 
@@ -16,4 +16,4 @@ SQL – Crucial for database management and data analysis.
 
 C – Foundational language, still relevant in system programming and embedded systems.
 
-Go (Golang) – Known for its simplicity and efficiency in backend development.")
+Go (Golang) – Known for its simplicity and efficiency in backend development.""")
